@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeICUI_AutomaionProject0920
+  gitServerName: ICAccount0920
+  gitUrl: https://github.com/MeghaRaj69/EdgeICUI_AutomaionProject0920
+  gitUsername: MeghaRaj69
+  gitToken: edge.scaffolding.EdgeICUI_AutomaionProject0920.ICAccount0920.gitToken
+  gitBranch: main
